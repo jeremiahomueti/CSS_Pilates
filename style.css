@@ -1,0 +1,39 @@
+body{
+    font-family: 'Quicksand';
+
+}
+
+
+.parent{
+font-size: medium;
+width: 600px;
+background-color: aqua;
+}
+
+.child-one{
+font-size: larger;
+width: 500px;
+position: relative;
+bottom: 15px;
+left: 50px;
+background-color: green;
+}
+
+.child-two{
+font-size: larger;
+width: 500px;
+position: relative;
+bottom: 15px;
+left: 50px;
+background-color: purple;
+}
+
+.child-three{
+font-size: larger;
+width: 500px;
+position: relative;
+bottom: 15px;
+left: 50px;
+background-color: blue;
+}
+
